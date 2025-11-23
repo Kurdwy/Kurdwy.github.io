@@ -6,9 +6,6 @@
 
 A modern, fully responsive, and aesthetic personal portfolio website designed to showcase UI/UX design and web development skills. Built with a mobile-first approach, featuring unique animations and glassmorphism effects.
 
-![Desktop Preview](images/desktop-preview.png)
-*(Replace this link with your actual desktop screenshot)*
-
 ## ✨ Key Features
 
 ### 🎨 Design & UI
